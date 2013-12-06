@@ -2,14 +2,14 @@
   "name": "lineman-backbone",
   "title": "A backbone.js plugin for Lineman",
   "version": "0.0.1",
-  "homepage": "https://github.com/testdouble/lineman-backbone",
+  "homepage": "https://github.com/davemo/lineman-backbone",
   "author": {
     "name": "David Mosher",
     "company": "Test Double"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/testdouble/lineman-backbone.git"
+    "url": "git://github.com/davemo/lineman-backbone.git"
   },
   "main": "main.js",
   "dependencies": {
