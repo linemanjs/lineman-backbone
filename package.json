@@ -1,0 +1,31 @@
+{
+  "name": "lineman-backbone",
+  "title": "A backbone.js plugin for Lineman",
+  "version": "0.0.1",
+  "homepage": "https://github.com/testdouble/lineman-backbone",
+  "author": {
+    "name": "David Mosher",
+    "company": "Test Double"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/testdouble/lineman-backbone.git"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "grunt": "0.4.2",
+    "grunt-concat-sourcemap": "0.4.0",
+    "coffee-script": "1.6.3"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.19.3"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mit-license.org"
+    }
+  ]
+}
